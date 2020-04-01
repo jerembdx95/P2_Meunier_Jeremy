@@ -83,7 +83,17 @@
 .intro hr
 {
     margin-left: 30px;
+    width: 11%;
+    color: #FFC400;
+    size: 4;
     
+}
+
+.hr-h3
+{
+    width: 95%;
+    color: #FFC400;
+    size: 4;
 }
 
 
@@ -132,10 +142,6 @@
     margin-right: 10px;
 }
 
-.cvdroit hr
-{
-    margin-top:  -4px;
-}
 
 ul
 {margin-left: 22px;
@@ -193,10 +199,11 @@ img
     width: 100%;
     min-height: 27.1%;
     min-width: 100%;
-    float: left;
-    font-size: 11px;
+    float: left;  
+    font-size: 13px;
     margin-bottom: 18px;
 }
+
 
 
 
@@ -348,4 +355,3 @@ img
     
         
     }
-
