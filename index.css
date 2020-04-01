@@ -81,14 +81,14 @@
 {
     margin-left: 30px;
     width: 11%;
-    color: #FFC400;
+    background-color: #FFC400;
     size: 4;    
 }
 
 .hr-h3
 {
     width: 95%;
-    color: #FFC400
+    color: #FFC400;
     size: 4;
 }
 
