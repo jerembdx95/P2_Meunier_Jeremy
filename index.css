@@ -217,7 +217,7 @@ ul li
 .cv
 {
     display: grid;
-    grid-template-columns: 400px 500px;
+    grid-template-columns: 300px 400px;
     margin: 0 auto;
     width: 100%;  
 }    
