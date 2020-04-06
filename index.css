@@ -1,7 +1,7 @@
 .cv
 {
     display: grid;
-    grid-template-columns: 500px 600px;
+    grid-template-columns: 400px 500px;
     margin: 0 auto;
     width: 70%;  
 }
@@ -219,6 +219,7 @@ ul li
     display: grid;
     grid-template-columns: 800px 800px;
     width: 100%;  
+    margin-left: 30px;
 }    
     
     
