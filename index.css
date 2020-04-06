@@ -364,7 +364,7 @@ grid-column: 1; grid-row: 5;
 /* mobile Résolution */
 
 
-@media screen and (max-width: 350px)
+@media screen and (max-width: 310px)
     
 {  
 
