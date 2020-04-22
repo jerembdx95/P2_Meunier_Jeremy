@@ -20,6 +20,7 @@ p
 {
     grid-column: 1; grid-row: 1;
     background-color: #FFC400;
+    max-width: 370px;
     }
 img
 {
@@ -39,6 +40,7 @@ img
     padding-top: 60px;
     text-align: left;  
     font-size: 14px;
+    max-width: 370px;
     
 }
 
@@ -57,6 +59,7 @@ img
     grid-column: 1; grid-row: 3;
     font-size: 15px;
     background-color: #FFC400;
+    max-width: 370px;
    
  
 }
@@ -77,6 +80,7 @@ img
     margin-top: 120px;
     background-color: #FFC400;
     margin-top: 0px;
+    max-width: 370px;
     
 }
 
@@ -234,6 +238,7 @@ ul li
             margin-left: 0;
             background-color: white;
             background-color: #FFC400;
+            max-width: 100%;
         }
         img{
             height: 200px;
@@ -249,6 +254,7 @@ ul li
             padding-top: 20px;
             text-align: center;
             font-size: 1em;
+            max-width: 100%;
         }
 
         .apdm
@@ -257,6 +263,7 @@ ul li
             width: 100%;
             margin-left: 0;
             padding-top: 20px;
+            max-width: 100%;
         }
 
         .loisirs
@@ -265,6 +272,7 @@ ul li
             width: 100%;
             padding-top: 20px;
             margin-left: 0;
+            max-width: 100%;
         }
 
         .loisirs i
